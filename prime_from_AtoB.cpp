@@ -7,7 +7,7 @@ int prime1000[] = {2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79
 int main()
 {
     int a,b;
-    cout << "Hello world!" << endl;
+    //cout << "Hello world!" << endl;
     cin >>a>>b;
     for(int i=0;i<=b;i++){
         if(prime1000[i]>=a&&prime1000[i]<=b){
