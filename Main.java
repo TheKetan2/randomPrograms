@@ -1,5 +1,5 @@
 /* 	Program to tell meaning of name.
-	Ketan D. Ramteke
+	Ketan D. Ramtekeh
 	25/03/2017
 	
 */
