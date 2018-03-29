@@ -7,7 +7,7 @@ int main()
     scanf("%d",&dec); //get ting decimal number
     printf("\n");
     while(dec){
-        rem[i] = dec%2; // gh storing reminder in array
+        rem[i] = dec%2; // gh storing  reminder in array
         dec = dec/2;  
         i++;
     }
